@@ -1,9 +1,9 @@
 # Bioinfromatics TopicModeling
 We have extracted Bioinformatics related posts from the following websites\
-  1.https://stackoverflow.com/\
-  2.https://bioinformatics.stackexchange.com/\
-  3.https://stats.stackexchange.com/\
-  4.https://biology.stackexchange.com/\
+  1.https://stackoverflow.com/ \
+  2.https://bioinformatics.stackexchange.com/ \
+  3.https://stats.stackexchange.com/ \
+  4.https://biology.stackexchange.com/ \
 Then we have run LDA(Mallet) to find topics within them.
 The IPython notebook,  "metrics.ipynb",  shows how the metrics were calculated for the selected models.\
 The selected models are in the "model/" folder.
