@@ -14,9 +14,9 @@ Inside the folder \
   'MapUniqueIdsToPostIds.pkl' includes the mapping from post id in doctopics to the actual post id of the website which is used to go to the actual post.\
   *.pkl files are some intermediate files needed for time-based analysis\
   Label.csv includes the labels\
-  DesignPostInformation.csv includes the information of the posts we have worked with.\
+  DesignPostInformation.csv includes the information of the posts we have worked with.
   
- The tags of different websites we have worked with are listed bellow:\
+ The tags of different websites we have worked with are listed bellow:
   |Candidate Tags     |Stackoverflow|Biology|CrossValidated|
   |-------------------|-------------|-------|--------------|
   |ape-phylo          |56           |-      |- |
