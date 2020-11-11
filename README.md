@@ -1,5 +1,5 @@
 # Bioinfromatics TopicModeling
-We have extracted Bioinformatics related posts from the following websites\
+We have extracted Bioinformatics related posts from the following websites:\
   1.https://stackoverflow.com/ \
   2.https://bioinformatics.stackexchange.com/ \
   3.https://stats.stackexchange.com/ \
@@ -67,6 +67,6 @@ Inside the folder \
   |seurat             |58           |-      |- \
   |skbio              |32           |-      |- \
   |snp                |-            |89     |- \
-  |statistics         |-            |163    |- \
+  |statistics         |-            |163    |- 
 
 
