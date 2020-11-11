@@ -39,7 +39,7 @@ Inside the folder \
   |database           |-            |154    |- \
   |epigenetics        |-            |85     |- \
   |fasta              |668          |-      |- \
-  |fatq               |186          |-      |- \
+  |fastq              |186          |-      |- \
   |gene               |-            |178    |- \
   |genbank            |41           |-      |- \
   |genetics           |223          |2090   |190 \
