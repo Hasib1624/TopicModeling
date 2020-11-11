@@ -11,6 +11,7 @@ Each folder contains selected model of the website with which folders are  named
 Inside the folder \
   'doctopics.txt' represents the correlation between posts and topics.\
   The *.xlsx files contains the questions and answers who are mostly related to the topic.\
+  'MapUniqueIdsToPostIds.pkl' includes the mapping from post id in doctopics to the actual post id of the website which is used to go to the actual post.\
   *.pkl files are some intermediate files needed for time-based analysis\
   Label.csv includes the labels\
   DesignPostInformation.csv includes the information of the posts we have worked with.\
