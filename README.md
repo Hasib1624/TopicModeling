@@ -16,57 +16,57 @@ Inside the folder \
   DesignPostInformation.csv includes the information of the posts we have worked with.\
   
  The tags of different websites we have worked with are listed bellow:\
-  |Candidate Tags     |Stackoverflow|Biology|Cross Validated
-  |ape-phylo          |56           |-      |-
-  |allele             |-            |75     |-
-  |bioconductor       |645          |-      |-
-  |bioinformatics     |3063         |905    |216
-  |biojava            |26           |-      |-
-  |biom               |12           |-      |-
-  |biomart            |44           |-      |-
-  |bioperl            |125          |-      |-
-  |biopython          |1023         |10     |-
-  |bio-services       |17           |-      |-
-  |biostatistics      |-            |-      |660
-  |blast              |205          |56     |-
-  |chromosome         |-            |224    |-
-  |computational-model|-            |73     |-
-  |clustalx           |8            |-      |-
-  |clustal            |11           |-      |-
-  |dendropy           |7            |-      |-
-  |dna-sequence       |358          |325    |-
-  |database           |-            |154    |-
-  |epigenetics        |-            |85     |-
-  |fasta              |668          |-      |-
-  |fatq               |186          |-      |-
-  |gene               |-            |178    |-
-  |genbank            |41           |-      |-
-  |genetics           |223          |2090   |190
-  |genome             |155          |105    |-
-  |gff                |14           |-      |-
-  |gwas               |-            |-      |25
-  |human-genetics     |-            |395    |-
-  |human-genome       |-            |86     |-
-  |intermine          |6            |-      |-
-  |molecular-genetics |-            |557    |-
-  |microarray         |-            |-      |51
-  |mutation           |-            |245    |-
-  |ncbi               |152          |24     |-
-  |phylogeny          |281          |-      |36
-  |protein-database   |104          |-      |-
-  |population genetics|-            |306    |-
-  |pubmed             |151          |-      |-
-  |pymol              |80           |7      |-
-  |r-ape              |5            |-      |-
-  |rentrez            |22           |-      |-
-  |rna-seq            |83           |111    |-
-  |samtools           |68           |-      |-
-  |sequence-alignment |103          |76     |-
-  |sequencing         |101          |-      |-
-  |sequence-analysis  |-            |115    |-
-  |seurat             |58           |-      |-
-  |skbio              |32           |-      |-
-  |snp                |-            |89     |-
-  |statistics         |-            |163    |-
-  
+  |Candidate Tags     |Stackoverflow|Biology|Cross Validated \
+  |ape-phylo          |56           |-      |- \
+  |allele             |-            |75     |- \
+  |bioconductor       |645          |-      |- \
+  |bioinformatics     |3063         |905    |216 \
+  |biojava            |26           |-      |- \
+  |biom               |12           |-      |- \
+  |biomart            |44           |-      |- \
+  |bioperl            |125          |-      |- \
+  |biopython          |1023         |10     |- \
+  |bio-services       |17           |-      |- \
+  |biostatistics      |-            |-      |660 \
+  |blast              |205          |56     |- \
+  |chromosome         |-            |224    |- \
+  |computational-model|-            |73     |- \
+  |clustalx           |8            |-      |- \
+  |clustal            |11           |-      |- \
+  |dendropy           |7            |-      |- \
+  |dna-sequence       |358          |325    |- \
+  |database           |-            |154    |- \
+  |epigenetics        |-            |85     |- \
+  |fasta              |668          |-      |- \
+  |fatq               |186          |-      |- \
+  |gene               |-            |178    |- \
+  |genbank            |41           |-      |- \
+  |genetics           |223          |2090   |190 \
+  |genome             |155          |105    |- \
+  |gff                |14           |-      |- \
+  |gwas               |-            |-      |25 \
+  |human-genetics     |-            |395    |- \
+  |human-genome       |-            |86     |- \
+  |intermine          |6            |-      |- \
+  |molecular-genetics |-            |557    |- \
+  |microarray         |-            |-      |51 \
+  |mutation           |-            |245    |- \
+  |ncbi               |152          |24     |- \
+  |phylogeny          |281          |-      |36 \
+  |protein-database   |104          |-      |- \
+  |population genetics|-            |306    |- \
+  |pubmed             |151          |-      |- \
+  |pymol              |80           |7      |- \
+  |r-ape              |5            |-      |- \
+  |rentrez            |22           |-      |- \
+  |rna-seq            |83           |111    |- \
+  |samtools           |68           |-      |- \
+  |sequence-alignment |103          |76     |- \
+  |sequencing         |101          |-      |- \
+  |sequence-analysis  |-            |115    |- \
+  |seurat             |58           |-      |- \
+  |skbio              |32           |-      |- \
+  |snp                |-            |89     |- \
+  |statistics         |-            |163    |- \
+
 
